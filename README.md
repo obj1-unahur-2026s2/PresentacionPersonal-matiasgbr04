@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Matías Erique, 21 años
+- Vivo en Moreno
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con github, lo usamos en Lenguajes Informaticos I(antes -> Taller de lenguaje marcado web)
+- curso Tecnicatura en programación
